@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> The Simple Spring Boot application has been implemented using Spring Boot, MongoDB, Docker, Docker Compose, and Kubernetes.
+> The Spring Boot MSA application has been implemented using Spring Boot, Docker, Docker Compose.
 
 ## Usage
 ### Run Containers
