@@ -1,4 +1,4 @@
-package com.ggingmin.licensingservice;
+package com.ggingmin.license;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
